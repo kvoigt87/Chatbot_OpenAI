@@ -1,4 +1,4 @@
-# OpenAI Chatbot using Python
+# OpenAI Chatbot Example Code
 
 This repository contains Python code for implementing a chatbot using models from OpenAI. The chatbot is designed to engage in conversations with users, leveraging powerful natural language processing (NLP) techniques provided by OpenAI's models.
 
